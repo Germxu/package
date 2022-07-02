@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+specifiers:
+  marked: ^4.0.17
+
+dependencies:
+  marked: registry.npmmirror.com/marked/4.0.17
+
+packages:
+
+  registry.npmmirror.com/marked/4.0.17:
+    resolution: {integrity: sha512-Wfk0ATOK5iPxM4ptrORkFemqroz0ZDxp5MWfYA7H/F+wO17NRWV5Ypxi6p3g2Xmw2bKeiYOl6oVnLHKxBA0VhA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/marked/-/marked-4.0.17.tgz}
+    name: marked
+    version: 4.0.17
+    engines: {node: '>= 12'}
+    hasBin: true
+    dev: false
